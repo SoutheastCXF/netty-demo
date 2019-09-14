@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="netty-heartbeat-detection-demo" />
+        <module name="netty-introduction-demo" />
+        <module name="netty-not-sticky-pack-demo" />
+        <module name="netty-serialization-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="netty-demo" target="1.5" />
+      <module name="netty-heartbeat-detection-demo" target="7" />
+      <module name="netty-introduction-demo" target="1.5" />
+      <module name="netty-not-sticky-pack-demo" target="1.5" />
+      <module name="netty-serialization-demo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

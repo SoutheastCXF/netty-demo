@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/netty-demo.iml" filepath="$PROJECT_DIR$/netty-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-heartbeat-detection-demo/netty-heartbeat-detection-demo.iml" filepath="$PROJECT_DIR$/netty-heartbeat-detection-demo/netty-heartbeat-detection-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-introduction-demo/netty-introduction-demo.iml" filepath="$PROJECT_DIR$/netty-introduction-demo/netty-introduction-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-not-sticky-pack-demo/netty-not-sticky-pack-demo.iml" filepath="$PROJECT_DIR$/netty-not-sticky-pack-demo/netty-not-sticky-pack-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-serialization-demo/netty-serialization-demo.iml" filepath="$PROJECT_DIR$/netty-serialization-demo/netty-serialization-demo.iml" />
+    </modules>
+  </component>
+</project>
